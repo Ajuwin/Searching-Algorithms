@@ -1,3 +1,3 @@
 ## Searching-Algorithms
 
-Programming Language: Python
+### Programming Language: Python
